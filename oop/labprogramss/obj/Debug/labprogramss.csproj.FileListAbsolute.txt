@@ -1,0 +1,7 @@
+C:\study\semester2\oop\labprogramss\bin\Debug\labprogramss.exe.config
+C:\study\semester2\oop\labprogramss\bin\Debug\labprogramss.exe
+C:\study\semester2\oop\labprogramss\bin\Debug\labprogramss.pdb
+C:\study\semester2\oop\labprogramss\obj\Debug\labprogramss.csproj.AssemblyReference.cache
+C:\study\semester2\oop\labprogramss\obj\Debug\labprogramss.csproj.CoreCompileInputs.cache
+C:\study\semester2\oop\labprogramss\obj\Debug\labprogramss.exe
+C:\study\semester2\oop\labprogramss\obj\Debug\labprogramss.pdb
