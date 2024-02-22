@@ -1,0 +1,14 @@
+C:\study\semester2\oop\applicationinoopfirstversion\bin\Debug\applicationinoopfirstversion.exe.config
+C:\study\semester2\oop\applicationinoopfirstversion\bin\Debug\applicationinoopfirstversion.exe
+C:\study\semester2\oop\applicationinoopfirstversion\bin\Debug\applicationinoopfirstversion.pdb
+C:\study\semester2\oop\applicationinoopfirstversion\obj\Debug\applicationinoopfirstversion.csproj.AssemblyReference.cache
+C:\study\semester2\oop\applicationinoopfirstversion\obj\Debug\applicationinoopfirstversion.csproj.CoreCompileInputs.cache
+C:\study\semester2\oop\applicationinoopfirstversion\obj\Debug\applicationinoopfirstversion.exe
+C:\study\semester2\oop\applicationinoopfirstversion\obj\Debug\applicationinoopfirstversion.pdb
+C:\study\semester2\oop\OOP PD\applicationinoopfirstversion\bin\Debug\applicationinoopfirstversion.exe.config
+C:\study\semester2\oop\OOP PD\applicationinoopfirstversion\bin\Debug\applicationinoopfirstversion.exe
+C:\study\semester2\oop\OOP PD\applicationinoopfirstversion\bin\Debug\applicationinoopfirstversion.pdb
+C:\study\semester2\oop\OOP PD\applicationinoopfirstversion\obj\Debug\applicationinoopfirstversion.csproj.AssemblyReference.cache
+C:\study\semester2\oop\OOP PD\applicationinoopfirstversion\obj\Debug\applicationinoopfirstversion.csproj.CoreCompileInputs.cache
+C:\study\semester2\oop\OOP PD\applicationinoopfirstversion\obj\Debug\applicationinoopfirstversion.exe
+C:\study\semester2\oop\OOP PD\applicationinoopfirstversion\obj\Debug\applicationinoopfirstversion.pdb

@@ -1,0 +1,11 @@
+C:\study\semester2\oop\applicationinc#\bin\Debug\applicationinc#.exe.config
+C:\study\semester2\oop\applicationinc#\bin\Debug\applicationinc#.exe
+C:\study\semester2\oop\applicationinc#\bin\Debug\applicationinc#.pdb
+C:\study\semester2\oop\applicationinc#\obj\Debug\applicationinc#.csproj.AssemblyReference.cache
+C:\study\semester2\oop\applicationinc#\obj\Debug\applicationinc#.csproj.CoreCompileInputs.cache
+C:\study\semester2\oop\applicationinc#\obj\Debug\applicationinc#.exe
+C:\study\semester2\oop\applicationinc#\obj\Debug\applicationinc#.pdb
+C:\study\semester2\oop\OOP PD\applicationinc#\obj\Debug\applicationinc#.csproj.AssemblyReference.cache
+C:\study\semester2\oop\OOP PD\applicationinc#\obj\Debug\applicationinc#.csproj.CoreCompileInputs.cache
+C:\study\semester2\oop\OOP PD\applicationinc#\obj\Debug\applicationinc#.exe
+C:\study\semester2\oop\OOP PD\applicationinc#\obj\Debug\applicationinc#.pdb
